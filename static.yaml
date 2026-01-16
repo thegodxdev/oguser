@@ -1,0 +1,5 @@
+routes:
+  - path: /swizz
+    rewrite: /swizz.html
+  - path: /vaoil
+    rewrite: /vaoil.html
