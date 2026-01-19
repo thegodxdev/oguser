@@ -3,3 +3,5 @@ routes:
     rewrite: /swizz.html
   - path: /vaoil
     rewrite: /vaoil.html
+  - path: /souls
+    rewrite: /souls.html
